@@ -2,7 +2,7 @@
 
 <img align="right" src="./img.png" width="250" hspace="15" alt="Rutesh Adithya">
 
-<h1>Hey there, I'm Rutesh Adithya 👋</h1>
+<h2>Hey there, I'm Rutesh Adithya 👋</h2>
 
 <a href="https://github.com/RuteshAdithya">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=false&vCenter=true&width=560&lines=AI+Engineer+%7C+GenAI+Developer;LLMs+%7C+RAG+%7C+AI+Agents;Building+Production+AI+Applications;Multilingual+AI+%26+Voice+Assistants;Turning+Ideas+Into+Working+AI+Products" alt="Typing SVG">
