@@ -1,368 +1,59 @@
-<div align="left">
-
-<img align="right" src="./img.png" width="250" hspace="15" alt="Rutesh Adithya">
-
-<p><strong>Hey there, I'm Rutesh Adithya 👋</strong></p>
-
-<a href="https://github.com/RuteshAdithya">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=false&vCenter=true&width=560&lines=AI+Engineer+%7C+GenAI+Developer;LLMs+%7C+RAG+%7C+AI+Agents;Building+Production+AI+Applications;Multilingual+AI+%26+Voice+Assistants;Turning+Ideas+Into+Working+AI+Products" alt="Typing SVG">
-</a>
-
-<p>
-  <a href="https://rutesh-adithya-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Portfolio">
-  </a>
-  <a href="https://github.com/RuteshAdithya">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/rutesh-adithya-490477253/">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn">
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/RuteshAdithya?tab=followers">
-    <img src="https://img.shields.io/github/followers/RuteshAdithya?style=for-the-badge&label=FOLLOWERS&color=58A6FF&labelColor=161B22" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/RuteshAdithya?tab=repositories">
-    <img src="https://img.shields.io/github/stars/RuteshAdithya?style=for-the-badge&label=STARS&color=79C0FF&labelColor=161B22" alt="GitHub stars">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=RuteshAdithya&style=for-the-badge&label=PROFILE%20VIEWS&color=58A6FF&labelColor=161B22" alt="Profile views">
-</p>
-
-<br clear="both">
-
-</div>
-
----
-
-<table align="center" width="100%">
-<tr>
-<td width="65%" valign="top">
-
-## 🤖 About Me
-
-I'm **Rutesh Adithya**, a Computer Science graduate and aspiring **AI Engineer** focused on building practical AI-powered applications using modern Generative AI technologies.
-
-I enjoy taking an idea from **problem → architecture → AI workflow → development → deployment → production**.
-
-- 🤖 Generative AI & LLM Applications
-- 🧠 RAG & Vector Search Systems
-- 🔗 AI Agents & Tool Calling
-- 🗣️ Multilingual & Voice AI
-- 🐍 Python & AI/ML Development
-- ⚡ FastAPI & AI Backend Development
-- 🌐 React Interfaces for AI Applications
-- 🚀 Building and deploying real-world AI products
-
-> **Build things. Experiment with AI. Solve real problems. Ship products.**
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,js,html,css,mongodb,mysql,git,github,docker,linux&perline=5&theme=dark" width="100%" alt="Tech stack">
-
-</td>
-</tr>
-</table>
-
-<br><br>
-
-<div align="center">
-
-## 🧠 AI & GenAI Stack
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🤖 Generative AI
-
-LLMs  
-RAG  
-Prompt Engineering  
-AI Agents  
-LLM Workflows  
-Multilingual AI  
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔧 Frameworks & Tools
-
-LangChain  
-FastAPI  
-Streamlit  
-Hugging Face  
-Pandas  
-PyTorch  
-n8n  
-
-</td>
-
-<td align="center" width="33%">
-
-### 🗄️ AI Infrastructure
-
-Pinecone  
-Vector Search  
-Embeddings  
-Groq API  
-Gemini API  
-OpenAI APIs  
-Apify  
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🚀 Featured AI Projects
-
-</div>
-
-### 🌐 Multilingual AI Customer Support Assistant
-
-> **Telugu • Tenglish • English**
-
-A multilingual customer-support assistant designed to answer customer queries using **LLMs + RAG + vector search**, with support for voice-based interaction.
-
-**Tech:** Python • FastAPI • React • Groq • Pinecone • RAG • Embeddings • Whisper • ElevenLabs
-
-**Key Features**
-
-- 💬 ChatGPT-style conversational interface
-- 🌍 English, Telugu and Tenglish support
-- 📚 RAG over company policies
-- 🔎 Semantic vector search using Pinecone
-- 🎙️ Speech-to-text interaction
-- 🔊 Text-to-speech responses
-- 🧠 Context-aware conversations
-- ⚡ FastAPI backend architecture
-
-<a href="https://github.com/RuteshAdithya/multilingual-ai-customer-support">
-  <img src="https://img.shields.io/badge/View%20Project-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
-</a>
-
----
-
-### 💼 AI Job Recommender
-
-An AI-powered application that analyzes resumes, identifies skills and gaps, and recommends relevant job opportunities.
-
-**Tech:** Python • Streamlit • Groq • PyMuPDF • Apify • NLP • LLMs
-
-**Key Features**
-
-- 📄 Resume PDF parsing
-- 🧠 AI-based skill extraction
-- 🔍 Skill-gap analysis
-- 🎓 Missing certification suggestions
-- 🗺️ Personalized learning roadmap
-- 💼 Job discovery through Apify
-- ⚡ Interactive Streamlit interface
-
-<a href="https://github.com/RuteshAdithya/ai-job-recommender">
-  <img src="https://img.shields.io/badge/View%20Project-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
-</a>
-
----
-
-### 🤖 AI Restaurant WhatsApp Agent
-
-An AI-powered restaurant assistant designed to automatically respond to customer messages and provide restaurant information.
-
-**Tech:** Gemini API • n8n • Google Sheets • AI Agents • Workflow Automation
-
-**Features**
-
-- 💬 WhatsApp-based conversations
-- 🧠 AI-generated responses
-- 📋 Restaurant information retrieval
-- 🗂️ Conversation memory
-- ⚙️ Automated workflow execution
-
-<br>
-
-<div align="center">
-
-## 🛠️ Technical Skills
-
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### 💻 Programming
-
-- Python
-- Java
-- C
-- JavaScript
-- SQL
-- HTML
-- CSS
-
-### 🤖 AI / ML
-
-- Machine Learning
-- Deep Learning
-- NLP
-- Generative AI
-- LLMs
-- RAG
-- Prompt Engineering
-- AI Agents
-
-</td>
-
-<td valign="top" width="50%">
-
-### ⚡ Frameworks & Libraries
-
-- FastAPI
-- React
-- Streamlit
-- LangChain
-- Pandas
-- PyTorch
-- Hugging Face
-
-### 🗄️ Databases & AI Tools
-
-- Pinecone
-- MongoDB
-- MySQL
-- Gemini
-- Groq
-- OpenAI
-- Apify
-- n8n
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-## 🧩 How I Build AI Applications
-
-</div>
-
-```text
-Problem
-   ↓
-Understand the User & Use Case
-   ↓
-Data / Knowledge Collection
-   ↓
-LLM + Prompt Design
-   ↓
-Embeddings & Vector Database
-   ↓
-RAG / Agent Workflow
-   ↓
-FastAPI Backend
-   ↓
-React / Streamlit Interface
-   ↓
-Testing & Evaluation
-   ↓
-Deployment & Monitoring
-   ↓
-Production AI Application
-```
-
-<br>
-
-<div align="center">
-
-## 📚 Currently Learning
-
-</div>
-
-- 🧠 Advanced RAG architectures
-- 🤖 AI Agent design patterns
-- 🔗 Agentic workflows & tool calling
-- 📊 LLM evaluation
-- 🗣️ Voice AI systems
-- 🌍 Multilingual AI
-- ☁️ Cloud deployment
-- 📈 AI application monitoring
-- 🏗️ Production-ready AI architecture
-
-<br>
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuteshAdithya/RuteshAdithya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuteshAdithya/RuteshAdithya/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/RuteshAdithya/RuteshAdithya/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=RuteshAdithya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuteshAdithya&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub Streak">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuteshAdithya&layout=compact&theme=github_dark&hide_border=true" width="42%" alt="Top Languages">
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-<a href="https://github.com/RuteshAdithya">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/rutesh-adithya-490477253/">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
-</a>
-
-<a href="https://rutesh-adithya-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Portfolio">
-</a>
-
-<br><br>
-
-> **Building AI systems that are useful, accessible, and ready for the real world.**
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
-
-<br>
-
-<sub><b>© Rutesh Adithya</b> · AI Engineer · GenAI · RAG · AI Agents</sub>
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Rutesh Adithya — AI/ML Engineer focused on Generative AI, LLMs, RAG, AI Agents, and production AI applications.">
+<title>Rutesh Adithya — AI/ML Engineer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0B0D10;--panel:#14171B;--line:#262B31;--ink:#EAE7DF;--dim:#8B9198;--gold:#E7B75F;--blue:#58A6FF;--radius:4px}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}body{background:var(--bg);color:var(--ink);font-family:Inter,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}h1,h2,h3{font-family:"Space Grotesk",sans-serif}a{color:inherit;text-decoration:none}.wrap{max-width:1120px;margin:auto;padding:0 32px}
+header{position:fixed;inset:0 0 auto;z-index:50;background:rgba(11,13,16,.72);backdrop-filter:blur(12px);border-bottom:1px solid transparent}header.scrolled{border-bottom-color:var(--line)}nav{height:68px;display:flex;align-items:center;justify-content:space-between}.brand{font:600 1.05rem "Space Grotesk",sans-serif}.brand span{color:var(--gold)}.nav-links{display:flex;gap:28px;color:var(--dim);font-size:.9rem}.nav-links a:hover{color:var(--ink)}.nav-cta{border:1px solid var(--line);padding:8px 16px;border-radius:var(--radius);font-size:.85rem}.nav-cta:hover{border-color:var(--gold);color:var(--gold)}
+.hero{padding:155px 0 100px;min-height:88vh;display:grid;grid-template-columns:1.12fr .88fr;gap:50px;align-items:center}.eyebrow{color:var(--dim);margin-bottom:18px}.name{font-size:clamp(2.7rem,6vw,4.7rem);line-height:1.02;margin-bottom:18px}.role{height:1.8em;color:var(--gold);font:500 clamp(1.1rem,2vw,1.4rem) "Space Grotesk",sans-serif}.cursor{display:inline-block;width:2px;background:var(--gold);height:1em;vertical-align:-.12em;animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}.hero-desc{max-width:58ch;color:var(--dim);font-size:1.02rem;margin:20px 0 30px}.buttons{display:flex;gap:12px;flex-wrap:wrap}.btn{display:inline-flex;padding:12px 20px;border-radius:var(--radius);font-size:.9rem;font-weight:600;border:1px solid var(--line)}.primary{background:var(--gold);color:#141414;border-color:var(--gold)}.btn:hover{transform:translateY(-2px)}
+.visual{height:390px;position:relative;display:flex;align-items:center;justify-content:center}.visual canvas{position:absolute;inset:0;width:100%;height:100%}.portrait{position:relative;z-index:2;width:265px;height:265px;border-radius:50%;padding:6px;background:linear-gradient(145deg,var(--gold),var(--blue),var(--line))}.portrait img{width:100%;height:100%;object-fit:cover;border-radius:50%;background:var(--panel)}
+section{padding:92px 0;border-top:1px solid var(--line);scroll-margin-top:68px}.alt{background:var(--panel)}.section-head{display:flex;align-items:baseline;justify-content:space-between;gap:20px;margin-bottom:45px;padding-bottom:17px;border-bottom:1px solid var(--line)}.section-head h2{font-size:clamp(1.7rem,3vw,2.2rem)}.index{background:var(--gold);color:#111;padding:4px 10px;border-radius:var(--radius);font:600 .8rem "Space Grotesk",sans-serif}
+.about-grid{display:grid;grid-template-columns:1fr 1fr;gap:55px}.about p{color:var(--dim);max-width:62ch;margin-bottom:16px}.about strong{color:var(--ink);font-weight:500}.facts{display:flex;flex-direction:column;gap:18px}.fact{border-left:2px solid var(--line);padding-left:17px}.fact-label{font-size:.82rem;color:var(--dim);margin-bottom:3px}.fact-value{font:500 1.02rem "Space Grotesk",sans-serif}
+.project{padding:34px 0;border-top:1px solid var(--line);display:grid;grid-template-columns:65px 1fr;gap:28px}.project:first-of-type{border-top:0}.num{font:600 1.3rem "Space Grotesk",sans-serif;color:#6b5a34}.project h3{font-size:1.35rem;margin-bottom:7px}.stack{color:var(--gold);font:500 .82rem "Space Grotesk",sans-serif;margin-bottom:14px}.project ul{list-style:none;color:var(--dim);max-width:75ch}.project li{position:relative;padding-left:18px;margin:7px 0}.project li:before{content:"—";position:absolute;left:0;color:var(--line)}.project-links{margin-top:16px;display:flex;gap:10px}.small-btn{font-size:.78rem;border:1px solid var(--line);padding:7px 11px;border-radius:3px;color:var(--ink)}.small-btn:hover{border-color:var(--blue);color:var(--blue)}
+.skills-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:34px}.skill h3{font:500 .92rem Inter,sans-serif;color:var(--dim);margin-bottom:13px}.tags{display:flex;flex-wrap:wrap;gap:7px}.tag{border:1px solid var(--line);padding:5px 10px;border-radius:3px;font-size:.82rem}
+.timeline{border-top:0}.timeline-item{display:grid;grid-template-columns:165px 1fr;gap:25px;padding:22px 0;border-top:1px solid var(--line)}.date{color:var(--dim);font-size:.88rem}.timeline-title{font-size:1.03rem}.timeline-sub{color:var(--dim);font-size:.9rem}
+.workflow{max-width:820px;margin:auto;font-family:"Space Grotesk",sans-serif;color:var(--dim);font-size:1rem;line-height:2.05}.workflow span{color:var(--gold)}.learning{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.learn{border:1px solid var(--line);padding:14px 16px;color:var(--dim);border-radius:3px}.learn strong{display:block;color:var(--ink);font-size:.9rem;margin-bottom:4px}
+.contact h2{max-width:18ch;font-size:clamp(2rem,5vw,3.3rem);margin-bottom:25px}.email{font:500 clamp(1.1rem,2.4vw,1.5rem) "Space Grotesk",sans-serif;color:var(--gold)}.meta{display:flex;gap:25px;flex-wrap:wrap;margin-top:32px;color:var(--dim);font-size:.9rem}.meta a:hover{color:var(--ink)}footer{padding:30px 0;border-top:1px solid var(--line);color:var(--dim);font-size:.8rem;display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap}
+@media(max-width:900px){.hero{grid-template-columns:1fr;padding-top:125px}.visual{height:300px;order:-1}.portrait{width:210px;height:210px}.about-grid{grid-template-columns:1fr}}@media(max-width:720px){.nav-links{display:none}.wrap{padding:0 20px}.project{grid-template-columns:1fr}.num{display:none}.learning{grid-template-columns:1fr 1fr}}@media(max-width:560px){.learning{grid-template-columns:1fr}.timeline-item{grid-template-columns:1fr;gap:5px}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}::selection{background:var(--gold);color:#111}:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
+</style>
+</head>
+<body>
+<header id="siteHeader"><nav class="wrap"><div class="brand">Rutesh<span>.</span>Adithya</div><div class="nav-links"><a href="#about">About</a><a href="#projects">Projects</a><a href="#skills">Skills</a><a href="#background">Background</a></div><a class="nav-cta" href="#contact">Contact</a></nav></header>
+<main>
+<section class="hero wrap"><div><div class="eyebrow">Anantapur, Andhra Pradesh, India</div><h1 class="name">Rutesh Adithya</h1><div class="role" id="role"></div><p class="hero-desc">AI/ML Engineer focused on building practical AI applications with Generative AI, LLMs, RAG, semantic search, AI agents, and Python-based backends.</p><div class="buttons"><a class="btn primary" href="#projects">Explore projects</a><a class="btn" href="https://github.com/RuteshAdithya" target="_blank" rel="noopener">GitHub</a></div></div><div class="visual"><canvas id="graph"></canvas><div class="portrait"><img src="assets/profile.png" alt="Rutesh Adithya"></div></div></section>
+<section id="about" class="alt"><div class="wrap"><div class="section-head"><h2>About Me</h2><span class="index">01</span></div><div class="about-grid"><div class="about"><p>I'm <strong>Rutesh Adithya</strong>, a Computer Science graduate and aspiring <strong>AI Engineer</strong> focused on building practical AI-powered applications using modern Generative AI technologies.</p><p>I enjoy taking an idea from <strong>problem → architecture → AI workflow → development → deployment → production</strong>. My work spans LLM applications, RAG and vector search, AI agents, multilingual and voice AI, and AI backend development.</p></div><div class="facts"><div class="fact"><div class="fact-label">Focus</div><div class="fact-value">GenAI · LLMs · RAG · AI Agents</div></div><div class="fact"><div class="fact-label">Education</div><div class="fact-value">B.Tech CSE — RGUKT Nuzvid</div></div><div class="fact"><div class="fact-label">Core stack</div><div class="fact-value">Python · FastAPI · LangChain · React</div></div><div class="fact"><div class="fact-label">AI infrastructure</div><div class="fact-value">Pinecone · Groq · Gemini · Apify</div></div></div></div></div></section>
+<section id="projects"><div class="wrap"><div class="section-head"><h2>Featured AI / ML Projects</h2><span class="index">02</span></div>
+<div class="project"><div class="num">01</div><div><h3>MedAssist AI — Medical Knowledge Assistant</h3><div class="stack">Python · LangChain · Hugging Face · Pinecone · RAG · Embeddings</div><ul><li>Built a RAG-based medical knowledge assistant by processing medical PDFs, splitting documents into chunks, and generating embeddings for retrieval.</li><li>Implemented cosine similarity search to retrieve the most relevant medical document chunks from the knowledge base.</li><li>Integrated LangChain and Pinecone to retrieve relevant context and generate grounded responses using an LLM.</li><li>Experimented with embedding models, chunk sizes, and top-K retrieval settings and evaluated retrieval using Precision@K and Recall@K.</li></ul></div></div>
+<div class="project"><div class="num">02</div><div><h3>JobMatch AI — AI-Powered Job Recommendation System</h3><div class="stack">Python · Groq API · Apify · Streamlit · PyMuPDF</div><ul><li>Built an LLM-powered resume screening pipeline to extract candidate skills, qualifications, and experience from uploaded PDF resumes.</li><li>Implemented resume summarization, skill-gap detection, missing-skill identification, and personalized learning roadmaps using LLM analysis.</li><li>Integrated Apify APIs to collect LinkedIn and Naukri job listings and match candidate profiles with relevant job opportunities.</li><li>Developed a Streamlit interface for resume analysis and job recommendations using PyMuPDF for PDF text extraction.</li></ul><div class="project-links"><a class="small-btn" href="https://github.com/RuteshAdithya/ai-job-recommender" target="_blank" rel="noopener">GitHub →</a></div></div></div>
+<div class="project"><div class="num">03</div><div><h3>LoanPredictor — Loan Approval Prediction</h3><div class="stack">Python · Scikit-learn · XGBoost · Pandas · Streamlit</div><ul><li>Built an end-to-end machine learning classification system to predict loan approval using applicant financial and demographic data.</li><li>Performed data preprocessing and compared Logistic Regression, Random Forest, and XGBoost models for loan approval prediction.</li><li>Evaluated models using accuracy, precision, recall, F1-score, and ROC-AUC.</li><li>Developed a Streamlit interface for interactive loan approval predictions.</li></ul></div></div>
+</div></section>
+<section id="skills" class="alt"><div class="wrap"><div class="section-head"><h2>Technical Skills</h2><span class="index">03</span></div><div class="skills-grid">
+<div class="skill"><h3>AI / ML</h3><div class="tags"><span class="tag">Machine Learning</span><span class="tag">Deep Learning</span><span class="tag">NLP</span><span class="tag">Generative AI</span><span class="tag">LLMs</span><span class="tag">RAG</span><span class="tag">Prompt Engineering</span><span class="tag">AI Agents</span></div></div>
+<div class="skill"><h3>Programming</h3><div class="tags"><span class="tag">Python</span><span class="tag">Java</span><span class="tag">C</span><span class="tag">JavaScript</span><span class="tag">SQL</span><span class="tag">HTML</span><span class="tag">CSS</span></div></div>
+<div class="skill"><h3>Frameworks & Libraries</h3><div class="tags"><span class="tag">FastAPI</span><span class="tag">React</span><span class="tag">Streamlit</span><span class="tag">LangChain</span><span class="tag">Pandas</span><span class="tag">PyTorch</span><span class="tag">Hugging Face</span></div></div>
+<div class="skill"><h3>AI Infrastructure</h3><div class="tags"><span class="tag">Pinecone</span><span class="tag">Vector Search</span><span class="tag">Embeddings</span><span class="tag">Groq</span><span class="tag">Gemini</span><span class="tag">OpenAI</span><span class="tag">Apify</span><span class="tag">n8n</span></div></div>
+<div class="skill"><h3>Databases</h3><div class="tags"><span class="tag">MongoDB</span><span class="tag">MySQL</span><span class="tag">Pinecone</span></div></div>
+<div class="skill"><h3>Development</h3><div class="tags"><span class="tag">REST APIs</span><span class="tag">Git</span><span class="tag">GitHub</span><span class="tag">Docker</span><span class="tag">Linux</span><span class="tag">Postman</span></div></div>
+</div></div></section>
+<section><div class="wrap"><div class="section-head"><h2>How I Build AI Applications</h2><span class="index">04</span></div><div class="workflow">Problem<br><span>↓</span><br>Understand the User & Use Case<br><span>↓</span><br>Data / Knowledge Collection<br><span>↓</span><br>LLM + Prompt Design<br><span>↓</span><br>Embeddings & Vector Database<br><span>↓</span><br>RAG / Agent Workflow<br><span>↓</span><br>FastAPI Backend<br><span>↓</span><br>React / Streamlit Interface<br><span>↓</span><br>Testing & Evaluation<br><span>↓</span><br>Deployment & Monitoring<br><span>↓</span><br><strong style="color:var(--ink)">Production AI Application</strong></div></div></section>
+<section class="alt"><div class="wrap"><div class="section-head"><h2>Currently Learning</h2><span class="index">05</span></div><div class="learning"><div class="learn"><strong>Advanced RAG</strong>Retrieval architectures and optimization</div><div class="learn"><strong>AI Agents</strong>Tool calling and agent design patterns</div><div class="learn"><strong>LLM Evaluation</strong>Evaluating retrieval and generation quality</div><div class="learn"><strong>Voice AI</strong>Multilingual speech applications</div><div class="learn"><strong>Cloud Deployment</strong>Deploying practical AI applications</div><div class="learn"><strong>AI Monitoring</strong>Production observability and reliability</div></div></div></section>
+<section id="background"><div class="wrap"><div class="section-head"><h2>Background</h2><span class="index">06</span></div><div class="timeline"><div class="timeline-item"><div class="date">2022 — 2026</div><div><div class="timeline-title">B.Tech, Computer Science & Engineering — RGUKT Nuzvid</div><div class="timeline-sub">CGPA: 8.5 / 10</div></div></div><div class="timeline-item"><div class="date">2020 — 2022</div><div><div class="timeline-title">Pre-University Course — MPC, RGUKT Nuzvid</div><div class="timeline-sub">CGPA: 9.6 / 10</div></div></div><div class="timeline-item"><div class="date">Certifications</div><div><div class="timeline-title">Large Language Models — NPTEL</div><div class="timeline-sub">Deep Learning — NPTEL · Artificial Intelligence — SkillDzire</div></div></div><div class="timeline-item"><div class="date">Oct 2021 — May 2023</div><div><div class="timeline-title">NSS Volunteer — RGUKT IIIT-Nuzvid</div><div class="timeline-sub">Supported technical, cultural, and community-focused college activities.</div></div></div></div></div></section>
+<section id="contact" class="alt"><div class="wrap contact"><div class="section-head"><h2>Let's build practical AI systems.</h2><span class="index">07</span></div><a class="email" href="mailto:ruteshadithya181@gmail.com">ruteshadithya181@gmail.com</a><div class="meta"><a href="tel:+918247086179">+91 82470 86179</a><a href="https://github.com/RuteshAdithya" target="_blank" rel="noopener">GitHub</a><a href="https://www.linkedin.com/in/rutesh-adithya-490477253/" target="_blank" rel="noopener">LinkedIn</a><a href="https://rutesh-adithya-portfolio.vercel.app/" target="_blank" rel="noopener">Portfolio</a><span>Anantapur, Andhra Pradesh, India</span></div></div></section>
+</main>
+<footer class="wrap"><span>© 2026 Rutesh Adithya</span><span>AI/ML · GenAI · RAG · AI Agents</span></footer>
+<script>
+const header=document.getElementById('siteHeader');window.addEventListener('scroll',()=>header.classList.toggle('scrolled',scrollY>10));
+const roles=['AI / ML Engineer','GenAI Developer','LLM & RAG Developer','AI Agent Builder'];const role=document.getElementById('role');const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
+if(reduced){role.textContent=roles[0]}else{let r=0,c=0,del=false;function tick(){const word=roles[r];role.innerHTML=word.slice(0,c)+'<span class="cursor">&nbsp;</span>';if(!del){c++;if(c>word.length){del=true;setTimeout(tick,1400);return}}else{c--;if(c===0){del=false;r=(r+1)%roles.length}}setTimeout(tick,del?35:65)}tick()}
+const canvas=document.getElementById('graph'),ctx=canvas.getContext('2d');let w,h,nodes=[];function resize(){const r=canvas.parentElement.getBoundingClientRect();w=canvas.width=r.width;h=canvas.height=r.height}function init(){nodes=[];for(let i=0;i<(w<500?14:22);i++)nodes.push({x:Math.random()*w,y:Math.random()*h,vx:(Math.random()-.5)*.18,vy:(Math.random()-.5)*.18,r:1.5+Math.random()*1.8})}function step(){ctx.clearRect(0,0,w,h);nodes.forEach(n=>{n.x+=n.vx;n.y+=n.vy;if(n.x<0||n.x>w)n.vx*=-1;if(n.y<0||n.y>h)n.vy*=-1});for(let i=0;i<nodes.length;i++)for(let j=i+1;j<nodes.length;j++){const a=nodes[i],b=nodes[j],dx=a.x-b.x,dy=a.y-b.y,d=Math.hypot(dx,dy);if(d<130){ctx.strokeStyle=`rgba(231,183,95,${.14*(1-d/130)})`;ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.stroke()}}nodes.forEach(n=>{ctx.beginPath();ctx.fillStyle='rgba(88,166,255,.85)';ctx.arc(n.x,n.y,n.r,0,Math.PI*2);ctx.fill()});if(!reduced)requestAnimationFrame(step)}resize();init();step();addEventListener('resize',()=>{resize();init()});
+</script>
+</body>
+</html>
